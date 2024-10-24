@@ -13,7 +13,7 @@ Content-Type: application/json
     "products": [
         {"name": "Product A", "price": 10, "quality": 2},
         {"name": "Product B", "price": 20, "quality": 3},
-		{"name": "Product C", "price": 15, "quality": 5}
+	{"name": "Product C", "price": 15, "quality": 5}
     ]
 }
 ```
